@@ -13,4 +13,9 @@ Cada skill é representada por um ícone, título e breve descrição, permitind
 - Ícones representando cada skill  
 - Layout responsivo para diferentes tamanhos de tela  
 
-
+## 👀 Como Visualizar  
+1. Clone o repositório ou baixe os arquivos.  
+2. Abra o arquivo index.html em qualquer navegador.
+   
+```bash
+https://larissasantos2.github.io/skills-responsive/
