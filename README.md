@@ -1,4 +1,4 @@
-# 💻 Hard Skills – Portfólio
+# 💻 Hard Skills 
 
 Este projeto apresenta minhas **hard skills** em formato de cards interativos, utilizando **HTML, CSS e responsividade**.  
 Cada skill é representada por um ícone, título e breve descrição, permitindo uma visualização simples e organizada.
